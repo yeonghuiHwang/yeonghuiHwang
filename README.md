@@ -27,7 +27,7 @@ Hello! I'm a researcher focused on AI, Deep Learning, Computer Vision, and Natur
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### 🐍 Contribution Graph
-<img src="https://github.com/yeonghuiHwang/yeonghuiHwang/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://github.com/yeonghuiHwang/yeonghuiHwang/blob/output/github-snake.svg" width="100%">
 
 ### 📊 GitHub Stats
 
