@@ -14,12 +14,12 @@
 | 2023.02 ~ 2023.12 | 세종대학교 소프트웨어융합대학 6대 부학생회장 |
 | 2023.05 ~ 현재 | 세종대학교 Vision & Image Processing Lab 학부연구생 |
 
-**Research Interests**
+### 🔬 Research Interests
 - 🎯 Deep Learning & AI Development
 - 🔭 Computer Vision
 - 📝 Natural Language Processing
 - 🌐 Neural Networks
-
+  
 ### 🛠 Tech Stack
 **Languages**  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
