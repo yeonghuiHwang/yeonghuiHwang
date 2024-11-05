@@ -7,10 +7,10 @@
 
 ### 🧑‍💻 About Me
 
-안녕하세요! AI와 딥러닝을 연구하고 있습니다.
-- 🎯 Deep Learning과 AI 개발에 관심이 많습니다
-- 🌱 현재 최신 AI 기술들을 학습하고 있습니다
-- 💡 새로운 기술을 배우는 것을 즐깁니다
+Hello! I'm a researcher focused on AI and Deep Learning.
+- 🎯 Passionate about Deep Learning and AI Development
+- 🌱 Currently exploring cutting-edge AI technologies
+- 💡 Enthusiastic about learning new technologies
 
 ### 🛠 Tech Stack
 
