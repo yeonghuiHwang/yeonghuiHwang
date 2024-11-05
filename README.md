@@ -45,7 +45,7 @@
 ### 🐍 Contribution Graph
 <img src="https://github.com/yeonghuiHwang/yeonghuiHwang/blob/output/github-snake.svg" width="100%">
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeonghuiHwang&show_icons=true&theme=radical"/>
