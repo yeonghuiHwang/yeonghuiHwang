@@ -5,11 +5,12 @@
 
 > "Exploring the frontiers of AI and Deep Learning"
 
-### 🧑‍💻 About Me
 
-Hello! I'm a researcher focused on AI and Deep Learning.
-- 🎯 Passionate about Deep Learning and AI Development
-- 🌱 Currently exploring cutting-edge AI technologies
+### 🧑‍💻 About Me
+Hello! I'm a researcher focused on AI, Deep Learning, Computer Vision, and Natural Language Processing
+- 🎯 Passionate about Deep Learning, AI Development, Computer Vision, and NLP
+- 🔬 Currently researching at Vision & Image Processing Lab, Sejong University (2023.05 ~ Present)
+- 🌱 Exploring cutting-edge AI technologies in both Vision and Language domains
 - 💡 Enthusiastic about learning new technologies
 
 ### 🛠 Tech Stack
