@@ -3,7 +3,7 @@
 
 ## 👋 Welcome to My GitHub!
 
-> "Exploring the frontiers of AI and Deep Learning"
+> "import happiness as life # Developing AI, debugging life 🤖💻"
 
 
 ### 🧑‍💻 About Me
