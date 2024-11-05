@@ -7,11 +7,16 @@
 
 
 ### 🧑‍💻 About Me
-Hello! I'm a researcher focused on AI, Deep Learning, Computer Vision, and Natural Language Processing
-- 🎯 Passionate about Deep Learning, AI Development, Computer Vision, and NLP
-- 🔬 Currently researching at Vision & Image Processing Lab, Sejong University (2023.05 ~ Present)
-- 🌱 Exploring cutting-edge AI technologies in both Vision and Language domains
-- 💡 Enthusiastic about learning new technologies
+| 기간 | 소속 |
+|:--|:--|
+| 2021.03 ~ 현재 | 세종대학교 컴퓨터공학과 |
+| 2023.05 ~ 현재 | 세종대학교 Vision & Image Processing Lab |
+
+**Research Interests**
+- 🎯 Deep Learning & AI Development
+- 🔭 Computer Vision
+- 📝 Natural Language Processing
+- 🌐 Neural Networks
 
 ### 🛠 Tech Stack
 
