@@ -25,6 +25,9 @@ Hello! I'm a researcher focused on AI and Deep Learning.
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
+### 🐍 Contribution Graph
+<img src="https://github.com/yeonghuiHwang/yeonghuiHwang/blob/output/github-snake-dark.svg" width="100%">
+
 ### 📊 GitHub Stats
 
 <div align="center">
