@@ -34,11 +34,14 @@ Hello! I'm a researcher focused on AI and Deep Learning.
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nsun14363@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://nsun14363.tistory.com/">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
+  </a>
+  <a href="https://blog.naver.com/hyh111601">
+    <img src="https://img.shields.io/badge/Daily%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/1yhh1/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
