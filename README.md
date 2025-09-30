@@ -12,7 +12,8 @@
 | 2021.03 ~ 현재 | 세종대학교 컴퓨터공학과 |
 | 2022.02 ~ 2022.12 | 세종대학교 34대 학생회 기획부장 |
 | 2023.02 ~ 2023.12 | 세종대학교 소프트웨어융합대학 6대 부학생회장 |
-| 2023.05 ~ 현재 | 세종대학교 Vision & Image Processing Lab 학부연구생 |
+| 2023.05 ~ 2025.02 | 세종대학교 Vision & Image Processing Lab 학부연구생 |
+| 2025.02 ~ 현재 | 세종대학교 Vision & Image Processing Lab 석사연구생 |
 
 ### 🔬 Research Interests
 - 🎯 Deep Learning & AI Development
