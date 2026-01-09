@@ -46,13 +46,6 @@
 ### 🐍 Contribution Graph
 <img src="https://github.com/yeonghuiHwang/yeonghuiHwang/blob/output/github-snake.svg" width="100%">
 
-### 📊 GitHub Status
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeonghuiHwang&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghuiHwang&layout=compact&theme=radical"/>
-</div>
-
 ### 📫 Connect with Me
 <p align="center">
   <a href="mailto:nsun14363@gmail.com">
