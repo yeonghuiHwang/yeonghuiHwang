@@ -51,13 +51,6 @@
 
 `Deep Learning` `Computer Vision` `NLP` `Full-Stack Development` `AI for Marketing`
 
-### Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yeonghuiHwang&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghuiHwang&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
 ### Contact
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nsun14363@gmail.com)
